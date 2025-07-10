@@ -1,8 +1,8 @@
 {
-  "name": "nearbydemo",
+  "name": "nearby",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aap26.github.io/nearbydemo",
+  "homepage": "https://aap26.github.io/nearby",
   "dependencies": {
     "@react-google-maps/api": "^2.20.7",
     "@testing-library/dom": "^10.4.0",
